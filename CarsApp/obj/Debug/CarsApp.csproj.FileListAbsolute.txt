@@ -1,0 +1,6 @@
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\bin\CarsApp.dll.config
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\bin\CarsApp.dll
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\bin\CarsApp.pdb
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\obj\Debug\CarsApp.csprojResolveAssemblyReference.cache
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\obj\Debug\CarsApp.dll
+c:\users\ali.mirzaei\documents\visual studio 2013\Work\CarsApp\CarsApp\obj\Debug\CarsApp.pdb
